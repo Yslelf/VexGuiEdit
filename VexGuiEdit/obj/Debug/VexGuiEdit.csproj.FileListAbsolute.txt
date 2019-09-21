@@ -1,0 +1,15 @@
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.Main.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.Properties.Resources.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.csproj.GenerateResource.cache
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.csproj.CoreCompileInputs.cache
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.GuiFrame.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.TxtEditBox.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.ImageControl.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.TxtControl.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.Welcome.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.SelectBtImTxt.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.SelectText.resources
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\bin\Debug\VexGuiEdit v1.1.5.exe.config
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\bin\Debug\VexGuiEdit v1.1.5.exe
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit v1.1.5.exe
+C:\Users\Yslelf\source\repos\VexGuiEdit\VexGuiEdit\obj\Debug\VexGuiEdit.csprojAssemblyReference.cache
